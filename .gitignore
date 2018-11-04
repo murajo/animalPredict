@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+__pycache__
+settings_sercret.py
+uploads
+*.h5
+*.ipynb
+*.npy
+image/
